@@ -16,7 +16,7 @@ int main() {
     
     p1.id = 1;
     strcpy(p1.firstName, "Phansa");
-    strcpy(p1.lastName, "Kanom");
+    strcpy(p1.lastName, "Phiradee");
     strcpy(p1.phone, "0801234567");
     p1.salary = 22000;
     
